@@ -2,10 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wogha95&fontSize=70" />
 </p>
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogha95)](https://github.com/anuraghazra/github-readme-stats) -->
+
+ 
 <p align="center"><strong>Hello!</strong></p>
-<p align="center"><strong>I'm Front-End Developer.</strong></p>
-<p align="center"><strong>I believe 'WE CAN DO IT'.</strong></p>
-<p align="center"><strong>Thank you!</strong></p>
+<!-- <p align="center"><strong>I'm Front-End Developer.</strong></p> -->
+<!-- <p align="center"><strong>I believe 'WE CAN DO IT'.</strong></p> -->
+<!-- <p align="center"><strong>Thank you!</strong></p> -->
 
 <br>
 
