@@ -6,9 +6,7 @@
 
  
 <p align="center"><strong>Hello!</strong></p>
-<!-- <p align="center"><strong>I'm Front-End Developer.</strong></p> -->
-<!-- <p align="center"><strong>I believe 'WE CAN DO IT'.</strong></p> -->
-<!-- <p align="center"><strong>Thank you!</strong></p> -->
+<p align="center"><strong>Welcome my Github</strong></p>
 
 <br>
 
